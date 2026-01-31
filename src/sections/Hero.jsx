@@ -51,7 +51,7 @@ export default function Hero() {
             <motion.a 
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/PawFind.apk" 
+              href="https://github.com/mawi1C/PawFind-Web/releases/download/v1-0/application-0121de10-2a2c-4d93-807a-dcaa1799fc69.apk" 
               className="bg-secondary text-white px-8 py-4 rounded-2xl font-bold text-base shadow-xl shadow-gray-200/50 flex items-center justify-center gap-3 group"
             >
               Download APK 

@@ -35,7 +35,7 @@ export default function Navbar() {
             </Magnetic>
           ))}
           <Magnetic>
-            <a href="/PawFind.apk" className="flex items-center gap-2 bg-secondary text-white px-6 py-2.5 rounded-xl font-bold text-sm shadow-lg hover:bg-gray-800 transition-all">
+            <a href="https://github.com/mawi1C/PawFind-Web/releases/download/v1-0/application-0121de10-2a2c-4d93-807a-dcaa1799fc69.apk" className="flex items-center gap-2 bg-secondary text-white px-6 py-2.5 rounded-xl font-bold text-sm shadow-lg hover:bg-gray-800 transition-all">
               <Download size={16} />
               Download APK
             </a>
