@@ -2,7 +2,7 @@ import React from 'react';
 import { Cpu, Database, Shield, Globe, Cloud, Code } from 'lucide-react';
 
 const techs = [
-  { name: "Gemini AI", icon: <Cpu /> },
+  { name: "Open AI", icon: <Cpu /> },
   { name: "Firebase", icon: <Database /> },
   { name: "Google Maps", icon: <Globe /> },
   { name: "Cloudinary", icon: <Cloud /> },

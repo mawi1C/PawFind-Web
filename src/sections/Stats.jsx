@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const stats = [
-  { value: "65-80%", label: "Match Accuracy", desc: "Powered by Gemini AI" },
+  { value: "75–85%", label: "Match Accuracy", desc: "Powered by OpenAI" },
   { value: "< 24h", label: "Avg. Recovery", desc: "For reported pets" },
   { value: "5km", label: "Search Radius", desc: "Real-time alerts" },
   { value: "100%", label: "Verified Users", desc: "Identity checked" },
